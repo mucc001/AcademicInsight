@@ -1,0 +1,1 @@
+db.reviews.createIndex({ title: 'text', courseName: 'text' });
